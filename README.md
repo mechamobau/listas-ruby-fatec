@@ -13,10 +13,10 @@ exec##/
 
 Sendo `Exercicio.md` o enunciado e `main.rb` o arquivo responsável pela execução do exercício.
 
-# Contribuindo
+## Contribuindo
 
 Caso tenha alguma alteração que queira fazer para melhorar o repositório, abra uma PR para análise do material. Adorei poder ter sua contribuição neste repositório.
 
-# Licença
+## Licença
 
 Este repositório está sobre a licença MIT, podendo ser utilizada para uso comercial, modificação, distribuição ou uso privado.
